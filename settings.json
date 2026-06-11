@@ -27,14 +27,10 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "chleja phod dunga tere ko"
-      ]
+      "repeat-delay": 1200,
+      "messages":
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -54,7 +50,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10
+      "interval": 10000
     }
   },
   "modules": {
@@ -84,4 +80,3 @@
   "chat": {
     "respond": true
   }
-}
