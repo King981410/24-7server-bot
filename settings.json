@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "247serveron.aternos.me",
-    "port": 55687,
+    "ip": "Ahmed_raza_-W5qy.aternos.me",
+    "port": 64454,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "chleja phod dunga tere ko"
       ]
     },
     "chat-log": true,
@@ -43,10 +43,10 @@
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": fa;se
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 999999,
+      "speed": 300
     },
     "look-around": {
       "enabled": true,
@@ -54,13 +54,13 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
