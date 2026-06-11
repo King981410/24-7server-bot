@@ -43,7 +43,7 @@
   },
   "movement": {
     "enabled": true,
-    "circle-walk": fa;se
+    "circle-walk":false
       "enabled": true,
       "radius": 999999,
       "speed": 300
